@@ -21,6 +21,6 @@ public class Abu {
 
 		Abu a = new Abu();
 		a.land();
-		a.house(5);
+		a.house(10);
 	}
 }
